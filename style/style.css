@@ -143,8 +143,8 @@ img {
 }
 
 img.pequena {
-    max-width: 350px;
-    min-width: 400px;
+    max-width: 300px;
+    min-width: 200px;
     display: block;
     margin: auto;
 }
